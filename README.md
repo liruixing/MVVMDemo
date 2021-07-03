@@ -4,7 +4,7 @@
 
 1）设计模式 MVVM
 
-2）ARouter+rxjava2+retrofit2+databinding+ModelView+liveData
+2）ARouter+rxjava2+retrofit2+databinding+ViewModel+liveData
 
 ##适合人群 组件化初学者、mvvm使用者同时希望接触组件化
 
